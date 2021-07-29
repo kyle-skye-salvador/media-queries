@@ -2,3 +2,35 @@ h1{
     color: black;
     font-family: "Times New Roman" ,sans-serif;
 }
+
+.hidden-on-desktop {
+    display: none;
+}
+
+nav {
+    display: flex;
+}
+
+.nav-links {
+
+}
+
+.header-img {
+
+}
+
+.main {
+
+}
+
+.sub-section {
+
+}
+
+/*Below is Mobile view: */
+
+/*@media  {*/
+/*    .alert-info {*/
+/*        */
+/*    }*/
+/*}*/
