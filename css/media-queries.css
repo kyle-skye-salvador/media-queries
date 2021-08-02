@@ -77,10 +77,12 @@ li {
 section {
     width: 42%;
     display: inline-block;
+    padding-bottom: 300px;
 }
 
 footer {
     display: flex;
+    margin-right: auto;
 }
 
 /*Below is Mobile view: */
