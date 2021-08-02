@@ -1,18 +1,43 @@
+body h1{
+    display: flex;
+    justify-content: flex-start;
+
+
+}
+
+
 h1{
     color: black;
     font-family: "Times New Roman" ,sans-serif;
+    font-size:3rem;
+
+    /*display: flex;*/
+
+ /*margin-right:auto ;*/
 }
 
 .hidden-on-desktop {
     display: none;
+
 }
 
-nav {
+nav ul{
     display: flex;
+    justify-content: space-between;
+    /*display: flex;*/
+    /*flex-direction: row;*/
+
 }
 
 .nav-links {
 
+
+
+    /*flex-direction: row;*/
+/*display: flex;*/
+/*    justify-content: flex-end;*/
+/*    align-items: center;*/
+/*    !*margin: auto;*!*/
 }
 
 .header-img {
